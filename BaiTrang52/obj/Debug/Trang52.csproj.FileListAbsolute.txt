@@ -1,0 +1,10 @@
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\Trang52\bin\Debug\Trang52.exe.config
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\Trang52\bin\Debug\Trang52.exe
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\Trang52\bin\Debug\Trang52.pdb
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\Trang52\obj\Debug\Trang52.csproj.AssemblyReference.cache
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\Trang52\obj\Debug\Trang52.Form1.resources
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\Trang52\obj\Debug\Trang52.Properties.Resources.resources
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\Trang52\obj\Debug\Trang52.csproj.GenerateResource.cache
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\Trang52\obj\Debug\Trang52.csproj.CoreCompileInputs.cache
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\Trang52\obj\Debug\Trang52.exe
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\Trang52\obj\Debug\Trang52.pdb
